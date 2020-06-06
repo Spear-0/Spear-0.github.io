@@ -1,0 +1,10 @@
+{
+"title":"Spear's gitbook",
+"author":"Spear",
+"plugins":[
+	"splitter",
+	"anchor-navigation-ex",
+	"tbfed-pagefooter",
+	"expandable-chapters"
+]
+}
